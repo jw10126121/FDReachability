@@ -11,7 +11,7 @@ s.source       = { :git => "https://github.com/jw10126121/FDReachability.git", :
 s.platform     = :ios
 s.ios.deployment_target = "7.0"
 s.frameworks = 'Foundation','UIKit'
-s.ios.vendored_frameworks = 'ios/FDReachability.framework'
+s.ios.vendored_frameworks = 'FDReachability.framework'
 s.requires_arc = true
 
 end
