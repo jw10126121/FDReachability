@@ -1,0 +1,6 @@
+framework module FDReachability {
+  umbrella header "FDReachability.h"
+
+  export *
+  module * { export * }
+}
